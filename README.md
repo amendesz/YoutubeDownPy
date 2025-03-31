@@ -28,3 +28,28 @@ Este é um aplicativo de desktop simples para baixar vídeos do YouTube usando P
    ```bash
    git clone https://github.com/amendesz/youtube-downloader.git
    cd youtube-downloader
+
+Instale as dependências necessárias:
+
+Se você estiver usando um ambiente virtual (recomendado), crie e ative o ambiente:
+
+## Para Linux/Mac:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+
+## Para Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+
+Depois de ativar o ambiente virtual, instale as dependências com o seguinte comando:
+```bash
+pip install -r requirements.txt
+
+Agora, você pode rodar o programa:
+
+```bash
+python ytpy.py
+Isso irá iniciar a interface gráfica e permitir que você baixe vídeos do YouTube.
+
