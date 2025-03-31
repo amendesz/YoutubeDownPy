@@ -8,3 +8,5 @@ out
 gen
 build/ytpy
 dist
+!/dist/
+!/build/
