@@ -26,5 +26,5 @@ Este é um aplicativo de desktop simples para baixar vídeos do YouTube usando P
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/youtube-downloader.git
+   git clone https://github.com/amendesz/youtube-downloader.git
    cd youtube-downloader
